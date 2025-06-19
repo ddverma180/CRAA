@@ -1,0 +1,5 @@
+Rule 1: Loan amount must not exceed 5 times the customer's annual income.
+Rule 2: Credit score below 650 leads to auto-rejection.
+Rule 3: Debt-to-income ratio must be below 40%.
+Rule 4: Self-employed applicants need at least 2 years of income history.
+Rule 5: Existing loan defaults in the past 3 years lead to rejection.
