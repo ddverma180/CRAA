@@ -1,0 +1,11 @@
+langchain
+openai
+chromadb
+fastapi
+uvicorn
+streamlit
+python-dotenv
+tiktoken
+rag_pipeline
+langchain-openai
+openai
